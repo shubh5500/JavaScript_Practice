@@ -1,2 +1,2 @@
-# chai_or_code
-this is demo project of chai or code playlist
+# JavaScript codes 
+this is practice codes of javascript
